@@ -73,6 +73,15 @@ form {
 
 .red-box {
     background-color: red;
+    color: white;
+}
+
+.blue-box {
+    background-color: blue;
+}
+
+.pointer {
+    pointer-events: none;
 }
 
 .c-100{
