@@ -30,6 +30,7 @@ function bombsarray(min, max) {
 button.addEventListener('click', function(){
 
     document.querySelector('.container').innerHTML = ''
+    document.getElementById('final-score').innerHTML = ''
 
     container.classList.remove('pointer')
     
